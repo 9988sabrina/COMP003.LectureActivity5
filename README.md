@@ -1,6 +1,6 @@
 # COMP003.LectureActivity5 – ASP.NET Core Web API
 
-This project was created for **COMP003B Module 5 Lecture Activity** at [Your College Name].
+This project was created for **COMP003B Module 5 Lecture Activity** 
 
 ## 📚 Overview
 
